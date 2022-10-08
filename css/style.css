@@ -1,0 +1,31 @@
+@font-face {
+    font-family: Liberation-Serif;
+    src: url(fuentes/LiberationSerif-Regular.ttf);
+}
+body{
+    background-color: beige;
+}
+.caja2{
+    display: grid;
+    position: absolute;
+    background-color: rgb(3, 73, 38);
+   justify-content: center;
+  padding-left: 10%;
+  
+  top: 20%;
+  left: 10%;
+  right: 10%;
+}
+h1{
+    text-align: center;
+    font-family: Liberation-Serif;
+    font-size: 20pt;
+}
+h2{
+font-family: 'Times New Roman', Times, serif;
+font-size: 12pt;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
